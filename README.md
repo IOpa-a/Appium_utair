@@ -1,9 +1,9 @@
 Для запуска:  
-1.Java 1.8.0_261  
-2.Android Studio и Android SDK  
-3.Appium  
-4.IntelliJ IDEA Community Edition 2020.2.4  
-5.Плагин для IDEA "Cucumber for Java" (settings -> plugins)  
+1. Java 1.8.0_261  
+2. Android Studio и Android SDK  
+3. Appium  
+4. IntelliJ IDEA Community Edition 2020.2.4  
+5. Плагин для IDEA "Cucumber for Java"  
 
 Первоначальную настройку делал по этой статье:  
 https://habr.com/ru/post/452742/  
